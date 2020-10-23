@@ -1,0 +1,2 @@
+Arquivo: Untitled 3 -> (Soma = 15);
+Arquivo: Teste 01.txt -> (Soma = 22);
